@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
-Include the date you created this project and README file.
+This readme file is created on 28th of December.
 
-### Project Title
-Replace the Project Title
+### Livyo Hazbay Udacity Github Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about the summary of the performance monitoring of **Motivate** a bikeshare company- which operates in Chicago, New York and Washington. It is created with an interactive format to provide answers to the queries about city/time/behavioral questions.
 
 ### Files used
-Include the files used
+Bike share data of 3 cities were used with the permission of **Motivate** a bikeshare company. Also we used NumPy and Pandas libraries for mathematical operations and exploring/manipulating data sets, respectively.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+While working on this project, I obtained help from the article below to overcome the git push error issue:
+https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8 
 
