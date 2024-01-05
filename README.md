@@ -6,7 +6,7 @@ This readme file is created on 28th of December and finalized on 5th of January.
 ### Livyo Hazbay Udacity Github Project
 
 ### Description
-This project is about the summary of the performance monitoring of **Motivate** a bikeshare company- which operates in Chicago, New York and Washington. It is created with an interactive format to provide answers to the queries about city/time/behavioral questions.
+This project is about the summary of the performance monitoring of **Motivate** a bikeshare company- which operates in Chicago, New York and Washington. It is created with an interactive format to provide answers to the queries about city/usage statistics/highlights of usage trend.
 
 ### Files used
 Bike share data of 3 cities were used with the permission of **Motivate** a bikeshare company. Also we used NumPy and Pandas libraries for mathematical operations and exploring/manipulating data sets, respectively.
